@@ -65,14 +65,14 @@ const ChannelListContainer = () => {
                         <TeamChannelList 
                             {...listProps}
                             type="messaging"
-                            
-                            
+                            //TODO
+
                         />
                     )}
                     Preview={(previewProps) => (
                         <TeamChannelPreview 
                             {...previewProps}
-                            
+                            //TODO
 
                             type="messaging"
                         />
